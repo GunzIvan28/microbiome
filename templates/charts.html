@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="http://nvd3.org/assets/css/nv.d3.css">
+<script src="http://nvd3.org/assets/lib/d3.v3.js"></script>
+<script src="http://nvd3.org/assets/js/nv.d3.js"></script>
+{% load nvd3_tags %}
+{% load_chart charttype chartdata chartcontainer %}
+{% load_chart charttype1 chartdata1 chartcontainer1 %}
+</head>
+<body>
+<h2>Overview of body site distribution of microbiome studies across Africa</h2>
+<p></p>
+{% include_container chartcontainer 400 800 %}
+<p></p>
+{% include_container chartcontainer1 400 600 %}
+</body>
+</html>
