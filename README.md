@@ -1,5 +1,5 @@
 # microbiome
 
-Example of displaying samples (with annotations) on map of Africa
+Example dashboard for displaying summary visuals for microbiome studies in Africa.
 
 ![](images/visuals.png?raw=true)
