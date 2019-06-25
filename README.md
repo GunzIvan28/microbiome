@@ -2,4 +2,4 @@
 
 Example of displaying samples (with annotations) on map of Africa
 
-![](images/map.png?raw=true)
+![](images/visuals.png?raw=true)
